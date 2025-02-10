@@ -10,8 +10,7 @@ namespace GitNet1
     {
         static void Main(string[] args)
         {
-            //limpiando en servidor        
-            //limpiando en cliente
+            //modificado para probar reversion de archivo
         }
     }
 }
