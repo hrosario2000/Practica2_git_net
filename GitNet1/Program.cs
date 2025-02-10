@@ -10,9 +10,7 @@ namespace GitNet1
     {
         static void Main(string[] args)
         {
-            //kjashdsajkh
-            //modificado en el servidor 01
-            //modificado en local
+            //eliminado en local
         }
     }
 }
